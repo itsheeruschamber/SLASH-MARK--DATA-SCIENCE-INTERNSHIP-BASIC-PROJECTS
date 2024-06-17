@@ -7,7 +7,7 @@ Data Analysis on Weather Dataset using Python
 <h1>Introduction</h1>
 <p>Data Analysis is one major part that you must master before learning or diving into the machine learning algorithms section because data analysis is a process to explore the data to get a better understanding of data.</p>
 <h1>Dataset Overview</h1>
-<p>The dataset we will use is a simple weather dataset which is a time-series dataset that stores the temperature, humidity, wind speed, etc on an hourly basis on different dates in 2012Load Dataset.</p>
+<p>The dataset we will use is a simple weather dataset which is a time-series dataset that stores the temperature, humidity, wind speed, etc on an hourly basis on different dates of a Dataset.</p>
 <h1>Load Dataset</h1>
 <p>You have the dataset and open the Jupyter Notebook or you can also create a Kaggle notebook over there itself. The first step is to import the necessary libraries and load the dataset into a notebook.</p>
 <h1>Basic Python Pandas Data Analysis Functions</h1>
